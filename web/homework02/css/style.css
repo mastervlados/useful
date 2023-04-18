@@ -1,0 +1,19 @@
+#wrapper {
+    color: gray;
+    width: 600px;
+    margin: 50px auto;
+}
+
+img {
+    width: inherit;
+    border-radius: 50px;
+}
+
+b, i {
+    color: rgb(123, 50, 250);
+}
+
+b {
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
